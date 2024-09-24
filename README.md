@@ -15,7 +15,7 @@
 
 📫 Вы можете связаться со мной по:
 - **email**: lasowskiwlodzimierz@gmail.com
-- **telegram**: https://t.me/DziedJanus
+- **telegram**: @DziedJanus
 
 ## Описание проектов в репозитории
 ⌨️
