@@ -14,7 +14,7 @@
 ## Как со мной связаться
 
 📫 Вы можете связаться со мной по:
-- **email**: lasowskiwlodzimierz@gmail.com
+- **email**: lasowskiwlodzimierz@gmail.com [![EMail Badge](https://img.shields.io/badge/-lasowskiwlodzimierz@gmail.com-0072b1?style=flat&logo=mail.ru&logoColor=white&link=mailto:lasowskiwlodzimierz@gmail.com)](mailto:lasowskiwlodzimierz@gmail.com)
 - **telegram**: @DziedJanus
 
 ## Описание проектов в репозитории
